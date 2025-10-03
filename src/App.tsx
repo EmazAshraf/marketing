@@ -69,7 +69,7 @@ export default function App() {
       
       {/* Left Column */}
       <div className="flex flex-col space-y-6 sm:space-y-8 text-center md:text-left items-center md:items-start">
-  <img src="/20Years.png" alt="20 Years" width={250} height={50} className="mx-auto md:mx-0" />
+  <img src="/years.png" alt="20 Years" width={250} height={50} className="mx-auto md:mx-0" />
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-semibold leading-tight">
           Marketing<br />That Speaks<br />Logistics
